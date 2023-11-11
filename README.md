@@ -6,4 +6,7 @@ This project combines the power of OpenCV and MediaPipe with advanced motion cap
 If you consider this page is useful, please leave a star
 
 ## MediaPipe - Pose Landmark
-<img src="https://mediapipe.dev/images/mobile/pose_tracking_full_body_landmarks.png" width="600" align="center"/>
+
+<p align="center">
+  <img src="https://mediapipe.dev/images/mobile/pose_tracking_full_body_landmarks.png" height="350" />
+</p>
