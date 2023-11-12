@@ -1,3 +1,9 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/UFTHaq/Motion-Capture-Leg-Limp?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/UFTHaq/Motion-Capture-Leg-Limp?label=Python&logo=python&logoColor=white&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/UFTHaq/Motion-Capture-Leg-Limp?logo=Jupyter&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UFTHaq/Motion-Capture-Leg-Limp?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/UFTHaq/Motion-Capture-Leg-Limp?color=red&style=for-the-badge)
+
 # Motion Capture - Leg Limp
 Limp Detection in Leg using OpenCV and MediaPipe with Motion Capture
 
