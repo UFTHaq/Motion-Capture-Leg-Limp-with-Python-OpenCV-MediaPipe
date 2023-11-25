@@ -7,7 +7,10 @@
 # Motion Capture - Leg Limp
 Limp Detection in Leg using OpenCV and MediaPipe with Motion Capture
 
-This project combines the power of OpenCV and MediaPipe with advanced motion capture techniques to create a robust system for real-time limp detection in the leg. By integrating motion capture capabilities, the application achieves enhanced precision in identifying and analyzing irregularities in leg movement.
+<p align="justify"> This project combines the power of OpenCV and MediaPipe with advanced motion capture techniques to create a robust system for real-time limp detection in the
+  leg. By integrating motion capture capabilities, the application achieves enhanced precision in identifying and analyzing irregularities in leg movement.
+</p>
+
 
 If you consider this page is useful, please leave a star
 
@@ -37,10 +40,12 @@ Here is the visualize graphic about the leg range of motion data captured from t
 <p align="center">
   <img src="https://github.com/UFTHaq/Motion-Capture-Leg-Limp/assets/104829519/9c1095c9-33d8-4b1a-8277-15fec37e1f05" width="800" />
 </p>
-In image Limp (right-left) leg, it can be observed that there is a significant difference in the range of motion between the left and right legs. From this, it can be assumed that there is a limp in the left leg. The range of motion angle in the left leg (red line) tends to be smaller than the range of motion angle in the right leg because, in the limping left leg, the joint tends to lock the angle to alleviate pain caused by excessive leg movement. The larger the range of motion angle, the more pronounced the perceived pain.
+
+<p align="justify"> In image Limp (right-left) leg, it can be observed that there is a significant difference in the range of motion between the left and right legs. From this, it can be assumed that there is a limp in the left leg. The range of motion angle in the left leg (red line) tends to be smaller than the range of motion angle in the right leg because, in the limping left leg, the joint tends to lock the angle to alleviate pain caused by excessive leg movement. The larger the range of motion angle, the more pronounced the perceived pain.
+</p>
 
 <hr>
 </hr>
 <p align="center">
-  If you consider this page is useful, please leave a star
+  <b>If you consider this page is useful, please leave a star</b>
 </p>
